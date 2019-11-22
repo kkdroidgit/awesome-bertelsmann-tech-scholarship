@@ -77,7 +77,7 @@ Books - free and commercial
 
 * [Data Science Central](https://www.datasciencecentral.com/)
 
-* [KDuuggets]("https://www.kdnuggets.com/")
+* [KDuuggets](https://www.kdnuggets.com/)
 
 * [Simply Statistics](https://simplystatistics.org/)
 
