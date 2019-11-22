@@ -15,6 +15,8 @@ Contributions are always welcome!
 ## Course Calendar
 [Up-to-date Information on Scholarship Activities](https://sites.google.com/udacity.com/bertelsmann-challenge/data-track/data-calendar)
 
+## Course FAQs
+[Frequently asked questions](https://sites.google.com/udacity.com/bertelsmann-challenge/overview/faqs)
 
 ## AMA's
 Links will be Updated Soon
