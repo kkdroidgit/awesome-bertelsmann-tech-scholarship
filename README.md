@@ -2,14 +2,18 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-A collection of awesome learning resources from Bertelsmann Tech Scholarship.
+A collection of awesome learning resources from [Bertelsmann Tech Scholarship from the Data Track](https://sites.google.com/udacity.com/bertelsmann-challenge/data-track).
 
 Contributions are always welcome!
 
 ## Course Information
 
+## Course Calendar
+[Up-to-date Information on Scholarship Activities](https://sites.google.com/udacity.com/bertelsmann-challenge/data-track/data-calendar)
+
+
 ## AMA's
-- [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/19ELb_KZI4eIdT6Xj0O9A6xkQfd6kRFwtQ-9xtAGclqA/edit#heading=h.2gazcsgmxkub)
+- [First AMA 11.09.2018](https://docs.google.com/document/d/19ELb_KZI4eIdT6Xj0O9A6xkQfd6kRFwtQ-9xtAGclqA/edit#heading=h.2gazcsgmxkub)
 - (Alternate categorized version) [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/1tvq1fq1BoeJ4reKf_WfFhcXhY3sfOazwKoZC6vq3gjk/edit)
 
 - [AMA Session Wednesday, November 14th @ 4PM PST](https://slack-files.com/files-pri-safe/TDBKE3X9D-FE45NN5BL/pytorch_facebook_scholarship_ama_181114.pdf?c=1542254974-3abc545b243d7de481d2fb193ebbaddfd99526cb)
@@ -146,8 +150,3 @@ An assortment of conference and training videos.
 * [Neural Network for beginners blog](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
 * [Tutorial to take you from beginner to expert in Machine Learning](https://machinelearningmastery.com)
 * [Computer Vision for Python](https://www.pyimagesearch.com)
-
-## Misc
-
-* [Chrome extension for speeding up youtube video playback speed](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik)
-
