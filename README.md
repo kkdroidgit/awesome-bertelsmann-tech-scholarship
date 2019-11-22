@@ -18,6 +18,9 @@ Contributions are always welcome!
 ## Course FAQs
 [Frequently asked questions](https://sites.google.com/udacity.com/bertelsmann-challenge/overview/faqs)
 
+## Orientation
+[Slides](https://docs.google.com/presentation/d/1E_dGFNxcNoXV4Ri25nTpgSJtvIC6-p9JlEybab6urjE/edit#slide=id.g1bdfc81a4a_0_0)
+
 ## AMA's
 Links will be Updated Soon
 
