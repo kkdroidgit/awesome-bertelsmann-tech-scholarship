@@ -6,6 +6,10 @@ A collection of awesome learning resources from [Bertelsmann Tech Scholarship fr
 
 Contributions are always welcome!
 
+<p align="left">
+  	<img width="150" height="150" src="https://imgur.com/pmxpMO8.png" />
+</p>
+
 # Course Information
 
 ## Course Calendar
@@ -13,7 +17,11 @@ Contributions are always welcome!
 
 
 ## AMA's
-- [First AMA 22.11.2019 - Will be Updated Soon]
+Links will be Updated Soon
+
+- [AMA Session 1: Friday, 11/22 at 9:00 AM (PST) | 10:30 PM (IST)]
+- [AMA Session 2: Monday 11/25 at 9:00 PM (PST) | Tuesday 11/26 10:30 AM (IST)]
+- [AMA Session 3: Tuesday, 11/26 at 10:00 AM (PST) | 11:30 PM (IST)]
 
 
 ## Resources
@@ -69,8 +77,11 @@ Some of the Courses shared from the #resources channel that can you take alongsi
 Books - free and commercial
 
 * [How To Code In Python](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf)
+
 * [Python For Everybody](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+
 * [Think Stats Probability and Statistics](http://www.greenteapress.com/thinkstats/thinkstats.pdf)
+
 * [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
 ## Blogs
