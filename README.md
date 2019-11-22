@@ -6,7 +6,7 @@ A collection of awesome learning resources from [Bertelsmann Tech Scholarship fr
 
 Contributions are always welcome!
 
-## Course Information
+# Course Information
 
 ## Course Calendar
 [Up-to-date Information on Scholarship Activities](https://sites.google.com/udacity.com/bertelsmann-challenge/data-track/data-calendar)
@@ -16,7 +16,7 @@ Contributions are always welcome!
 - [First AMA 22.11.2019 - Will be Updated Soon]
 
 
-# Resources
+## Resources
 
 - [Resources](#resources)
     - [Documentation](#documentation)
@@ -30,7 +30,7 @@ Contributions are always welcome!
 
 * [Python Official Documentation](https://docs.python.org/3/)
 
-## Learn Pyhon
+## Learn Python
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
