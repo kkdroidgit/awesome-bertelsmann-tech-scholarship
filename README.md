@@ -24,7 +24,7 @@ Contributions are always welcome!
 ## AMA's
 Links will be Updated Soon
 
-- [AMA Session 1: Friday, 11/22 at 9:00 AM (PST) | 10:30 PM (IST)]
+- [AMA Session 1: Friday, 11/22 at 9:00 AM (PST) | 10:30 PM (IST)](https://docs.google.com/document/d/1QNF44xdK1RPZNzvujugBYVOpbelh5mABaTuX7MMNzMg/edit)
 - [AMA Session 2: Monday 11/25 at 9:00 PM (PST) | Tuesday 11/26 10:30 AM (IST)]
 - [AMA Session 3: Tuesday, 11/26 at 10:00 AM (PST) | 11:30 PM (IST)]
 
