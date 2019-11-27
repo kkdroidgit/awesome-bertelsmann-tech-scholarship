@@ -28,6 +28,11 @@ Links will be Updated Soon
 - [AMA Session 2: Monday 11/25 at 9:00 PM (PST) | Tuesday 11/26 10:30 AM (IST)]
 - [AMA Session 3: Tuesday, 11/26 at 10:00 AM (PST) | 11:30 PM (IST)]
 
+## Study Groups
+[Link to Study Groups](https://sites.google.com/udacity.com/bertelsmann-challenge/data-track/data-study-groups)
+
+## Study Tracker
+[Course Overview and Tracker from Tobiloba Adaramati](https://docs.google.com/spreadsheets/d/1Ma2mi_1j5BCHkk6igDx8IqS1HA2kXrorQfRVSoetxXI/)
 
 ## Resources
 
