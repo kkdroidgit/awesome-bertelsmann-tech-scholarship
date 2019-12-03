@@ -25,8 +25,8 @@ Contributions are always welcome!
 Links will be Updated Soon
 
 - [AMA Session 1: Friday, 11/22 at 9:00 AM (PST) | 10:30 PM (IST)](https://docs.google.com/document/d/1QNF44xdK1RPZNzvujugBYVOpbelh5mABaTuX7MMNzMg/edit)
-- [AMA Session 2: Monday 11/25 at 9:00 PM (PST) | Tuesday 11/26 10:30 AM (IST)]
-- [AMA Session 3: Tuesday, 11/26 at 10:00 AM (PST) | 11:30 PM (IST)]
+- [AMA Session 2: Monday 11/25 at 9:00 PM (PST) | Tuesday 11/26 10:30 AM (IST)](https://docs.google.com/document/d/1aBTWREdG2LQ2v7F2kT38qa1JkR1EcKg5ihbhbhJSkKY/edit)
+- [AMA Session 3: Tuesday, 11/26 at 10:00 AM (PST) | 11:30 PM (IST)](https://docs.google.com/document/d/1p5X6pROb9BSlkVXQ_doo104YAyorraRwx2nG9-x_nuQ/edit)
 
 ## Study Groups
 [Link to Study Groups](https://sites.google.com/udacity.com/bertelsmann-challenge/data-track/data-study-groups)
